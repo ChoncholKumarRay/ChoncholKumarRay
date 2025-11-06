@@ -16,7 +16,7 @@
 
 ### Laguage
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,php, kotlin"/><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,php,kotlin"/><br>
 
 ### Frameworks & Libraries
 
