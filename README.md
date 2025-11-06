@@ -49,7 +49,10 @@
       </p>
     </td>
 
-    <!-- Project 2 -->
+  </tr>
+
+  <tr>
+  <!-- Project 2 -->
     <td align="center" width="50%">
       <h3>🛒 <a href="https://github.com/choncholray/ecommerce-project">E-Commerce Website</a></h3>
       <img src="https://raw.githubusercontent.com/choncholray/ecommerce-project/main/demo.png" alt="E-Commerce" width="250" style="border-radius:10px; border:1px solid #ddd;" />
@@ -61,7 +64,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       </p>
     </td>
-
   </tr>
 
   <tr>
@@ -77,7 +79,10 @@
       </p>
     </td>
 
-    <!-- Project 4 -->
+  </tr>
+
+  <tr>
+  <!-- Project 4 -->
     <td align="center" width="50%">
       <h3>🌌 <a href="https://github.com/CAM-SUST">CAM-SUST Website</a></h3>
       <img src="https://raw.githubusercontent.com/CAM-SUST/main/demo.png" alt="CAM-SUST" width="250" style="border-radius:10px; border:1px solid #ddd;" />
@@ -88,7 +93,6 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       </p>
     </td>
-
   </tr>
 </table>
 
