@@ -34,57 +34,63 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="50%">
+      <h3>🌐 <a href="https://github.com/choncholray/artisan-kitchen">Artisan Kitchen</a></h3>
+      <img src="https://raw.githubusercontent.com/choncholray/artisan-kitchen/main/demo.png" alt="Artisan Kitchen" width="250" style="border-radius:10px; border:1px solid #ddd;" />
+      <p>Admin-managed food ordering platform with menu scheduling and authentication.</p>
+      <p>
+        🛠 
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
 
-<div align="center" style="margin-bottom: 20px;">
-  <h3>🌐 <a href="https://github.com/choncholray/artisan-kitchen">Artisan Kitchen</a></h3>
-  <img src="https://raw.githubusercontent.com/choncholray/artisan-kitchen/main/demo.png" alt="Artisan Kitchen Screenshot" width="400" style="border-radius: 10px;" />
-  <p>Admin-managed food ordering platform with menu scheduling and authentication.</p>
-  <p>
-    🛠 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
-</div>
+    <!-- Project 2 -->
+    <td align="center" width="50%">
+      <h3>🛒 <a href="https://github.com/choncholray/ecommerce-project">E-Commerce Website</a></h3>
+      <img src="https://raw.githubusercontent.com/choncholray/ecommerce-project/main/demo.png" alt="E-Commerce" width="250" style="border-radius:10px; border:1px solid #ddd;" />
+      <p>Full-featured online store with product management and secure checkout.</p>
+      <p>
+        🛠
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </p>
+    </td>
 
-<div align="center" style="margin-bottom: 20px;">
-  <h3>🛒 <a href="https://github.com/choncholray/ecommerce-project">E-Commerce Website</a></h3>
-  <img src="https://raw.githubusercontent.com/choncholray/ecommerce-project/main/demo.png" alt="E-Commerce Screenshot" width="400" style="border-radius: 10px;" />
-  <p>Full-featured online store with product management and secure checkout.</p>
-  <p>
-    🛠 
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
-</div>
+  </tr>
 
-<div align="center" style="margin-bottom: 20px;">
-  <h3>📷 <a href="https://github.com/ChoncholKumarRay/IoT_Surveillance_System">IoT Smart Surveillance</a></h3>
-  <img src="https://raw.githubusercontent.com/ChoncholKumarRay/IoT_Surveillance_System/main/demo.png" alt="IoT Surveillance Screenshot" width="400" style="border-radius: 10px;" />
-  <p>ESP32-CAM & PIR-based motion detection system with Telegram alerts.</p>
-  <p>
-    🛠 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/IoT-FCA311?style=for-the-badge&logo=arduino&logoColor=white" />
-  </p>
-</div>
+  <tr>
+    <!-- Project 3 -->
+    <td align="center" width="50%">
+      <h3>📷 <a href="https://github.com/ChoncholKumarRay/IoT_Surveillance_System">IoT Smart Surveillance</a></h3>
+      <img src="https://raw.githubusercontent.com/ChoncholKumarRay/IoT_Surveillance_System/main/demo.png" alt="IoT Surveillance" width="250" style="border-radius:10px; border:1px solid #ddd;" />
+      <p>ESP32-CAM & PIR-based motion detection system with Telegram alerts.</p>
+      <p>
+        🛠 
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-FCA311?style=for-the-badge&logo=arduino&logoColor=white" />
+      </p>
+    </td>
 
-<div align="center" style="margin-bottom: 20px;">
-  <h3>🌌 <a href="https://github.com/CAM-SUST">CAM-SUST Website</a></h3>
-  <img src="https://raw.githubusercontent.com/CAM-SUST/main/demo.png" alt="CAM-SUST Website Screenshot" width="400" style="border-radius: 10px;" />
-  <p>Astronomy club website and outreach management tools.</p>
-  <p>
-    🛠 
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </p>
-</div>
+    <!-- Project 4 -->
+    <td align="center" width="50%">
+      <h3>🌌 <a href="https://github.com/CAM-SUST">CAM-SUST Website</a></h3>
+      <img src="https://raw.githubusercontent.com/CAM-SUST/main/demo.png" alt="CAM-SUST" width="250" style="border-radius:10px; border:1px solid #ddd;" />
+      <p>Astronomy club website and outreach management tools.</p>
+      <p>
+        🛠
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      </p>
+    </td>
 
-</p>
-
----
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
